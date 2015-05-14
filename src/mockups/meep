@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>JS Bin</title>
+</head>
+<body>
+  <h1>Error 404</h1><br><br>
+    <h4>I dont know what you expected,but it aint here. Anyways,</h4><br><br>
+  <u>Fizz</u> <b>is</b> a <i>fish </i> 
+  <ol>
+    <li>Q: dashes through opponent<li>
+    W: amplifies auto attack damage
+  </ol>
+  <ul>
+  <li> E: Jumps on a stick<li>
+    R: Gets eaten by a shark<br>
+    <br>
+    Which Spell do you want to use?<br>
+    
+    <input type="text" value="Press Q W E or R">
+    <input type="submit" value="I am a useless button!">
+  </ul>
+  
+</body>
+</html>
